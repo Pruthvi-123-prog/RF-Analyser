@@ -177,8 +177,8 @@ This application is for educational and research purposes. Always comply with lo
 
 ## 📞 Support
 
-For issues, questions, or feature requests, please open an issue on GitHub or contact the development team.
+For issues, questions, or feature requests, please open an issue on GitHub or contact me.
 
 ---
 
-**Built with ❤️ for the RF analysis community**
+**Built with ❤️**
